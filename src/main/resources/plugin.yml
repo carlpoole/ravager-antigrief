@@ -1,0 +1,12 @@
+name: ravager-anti-grief
+author: MetamorphicMike
+version: 1.0
+api-version: 1.14
+main: RavagerAntiGrief
+description: Plugin to stop Ravagers from griefing your base from patrols and raids
+
+commands:
+  rag:
+    description: Reload the configuration files of RavagerAntiGrief (rag)
+    usage: /rag reload
+    permission: rag.reload
